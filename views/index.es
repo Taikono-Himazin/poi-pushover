@@ -1,0 +1,1 @@
+export settingsClass from './setting'
